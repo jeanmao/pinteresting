@@ -1,7 +1,6 @@
 # Pinteresting Web App
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com) using Rails 4.0.0
+This is the pinteresting sample application using Rails 4.0.0
 
 by [Jean Mao](http://vizify.com/jeanmao)
 
